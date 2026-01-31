@@ -23,5 +23,8 @@ The project is a simple, responsive QR code card built with **HTML and CSS**, fo
 - Translating design specs into CSS
 - Using Git and GitHub for version control
 
+## Live Demo
+🔗https://inflnltee.github.io/QR-code-component/
+
 ## Author
 **Oghenetega Okoro**
